@@ -1,9 +1,12 @@
-<img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/images/TerminusDB-Pop2.gif">
+<img src="https://assets.terminusdb.com/readmes/terminusx/header.gif">
 
-## A toolkit for building collaborative applications
+## TerminusX Discussions & Issues
 
 [![Discord](https://img.shields.io/discord/689805612053168129?label=Discord&logo=Discord&style=plastic)](https://discord.gg/yTJKAma)
 [![Discourse](https://img.shields.io/discourse/topics?color=yellow&logo=Discourse&server=https%3A%2F%2Fdiscuss.terminusdb.com%2F&style=plastic)](https://discuss.terminusdb.com/)
+
+> This repository is for [community discussions][discussions] and [reporting
+> issues][issues] involving TerminusX.
 
 TerminusX is a self-service data platform that allows you to build, deploy,
 execute, monitor, and share versioned data products. ([Why TerminusX?][why]) It
@@ -14,9 +17,6 @@ now][dashboard].
 [why]: https://terminusdb.com/why-terminus/
 [home]: https://terminusdb.com/
 [dashboard]: https://dashboard.terminusdb.com/
-
-This repository is for [community discussions][discussions] and [reporting
-issues][issues] involving TerminusX.
 
 [discussions]: https://github.com/terminusdb/terminusx/discussions
 [issues]: https://github.com/terminusdb/terminusx/issues
