@@ -1,11 +1,11 @@
 <img src="https://assets.terminusdb.com/readmes/terminusx/header.gif">
 
-## TerminusX Discussions & Issues
+## TerminusX Discussion & Issues
 
 [![Discord](https://img.shields.io/discord/689805612053168129?label=Discord&logo=Discord&style=plastic)](https://discord.gg/yTJKAma)
 [![Discourse](https://img.shields.io/discourse/topics?color=yellow&logo=Discourse&server=https%3A%2F%2Fdiscuss.terminusdb.com%2F&style=plastic)](https://discuss.terminusdb.com/)
 
-> This repository is for [community discussions][discussions] and [reporting
+> This repository is for [community discussion][discussions] and [reporting
 > issues][issues] involving TerminusX.
 
 TerminusX is a self-service data platform that allows you to build, deploy,
