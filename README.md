@@ -1,4 +1,4 @@
-<img src="https://assets.terminusdb.com/readmes/terminusx/header.gif">
+[![TerminusX](https://assets.terminusdb.com/readmes/terminusx/header.gif)][dashboard]
 
 ## TerminusX Discussion & Issues
 
@@ -8,19 +8,21 @@
 > This repository is for [community discussion][discussions] and [reporting
 > issues][issues] involving TerminusX.
 
-TerminusX is a self-service data platform that allows you to build, deploy,
+**TerminusX** is a self-service data platform that allows you to build, deploy,
 execute, monitor, and share versioned data products. ([Why TerminusX?][why]) It
-is built on the open-source graph database and document store
-[TerminusDB][home]. TerminusX is in public beta and you can [sign up
+is built on the [open-source][terminusdb-repo] graph database and document store
+[TerminusDB][terminusdb]. TerminusX is in public beta and you can [sign up
 now][dashboard].
 
 [why]: https://terminusdb.com/why-terminus/
 [home]: https://terminusdb.com/
 [dashboard]: https://dashboard.terminusdb.com/
 
+[terminusdb]: https://terminusdb.com/
+[terminusdb-repo]: https://github.com/terminusdb/terminusdb
+
 [discussions]: https://github.com/terminusdb/terminusx/discussions
 [issues]: https://github.com/terminusdb/terminusx/issues
-[TerminusDB]: https://github.com/terminusdb/terminusdb
 
 ## Community
 
