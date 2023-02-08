@@ -1,4 +1,4 @@
-[![TerminusX](https://assets.terminusdb.com/readmes/terminusx/header.gif)][dashboard]
+[![TerminusX](https://assets.terminusdb.com/readmes/terminusx/terminuscms-github-header.png)][dashboard]
 
 ---
 
@@ -6,15 +6,20 @@
 [![Discourse](https://img.shields.io/reddit/subreddit-subscribers/TerminusDB?style=social)](https://www.reddit.com/r/TerminusDB/)
 [![Twitter](https://img.shields.io/twitter/follow/terminusdb?color=skyblue&label=Follow%20on%20Twitter&logo=twitter&style=flat)](https://twitter.com/TerminusDB)
 
-> Community [discussion][discussions] and [issues][issues] for TerminusX.
+> Community [discussion][discussions] and [issues][issues] for TerminusCMS.
 
-[discussions]: https://github.com/terminusdb/terminusx/discussions
-[issues]: https://github.com/terminusdb/terminusx/issues
+[discussions]: https://github.com/terminusdb/terminuscms/discussions
+[issues]: https://github.com/terminusdb/terminuscms/issues
 
-**TerminusX** is TerminusDB as a service designed for prototyping your betas and building your MVPs. It's free to use and SOC 2 certified. [Sign up takes less that a minute][dashboard]. Use the dashboard, connect a client, and start modeling and building fast. [More informations](https://terminusdb.com/products/terminusx/).
+**TerminusCMS** is a headless content and knowledge management system. It is designed for environments with intensive data and documentation requiremnts. Start for free and upgrade when you need to. [Sign up takes less that a minute][dashboard]. With version control, collaboration, change requests, GraphQL, and many more features, TerminusCMS is ideal for developers looking for semantically enhanced content and knowledge management.
 
-TerminusX is built on the [open-source][terminusdb-repo] graph database and
+TerminusCMS is built on the [open-source][terminusdb-repo] graph database and
 document store [**TerminusDB**][terminusdb].
+
+## Read About TerminusCMS
+[TerminusCMS Overview](https://terminusdb.com/terminuscms/)
+
+[Features](https://terminusdb.com/features/)
 
 [terminusdb]: https://terminusdb.com/
 [terminusdb-repo]: https://github.com/terminusdb/terminusdb
@@ -33,6 +38,6 @@ Come visit us on [Discord][discord] or our [Community Subreddit][Community Subre
 
 ## Documentation
 
-Check out the [TerminusX and TerminusDB documentation][documentation] for more information.
+Check out the [TerminusCMS documentation][documentation] for more information.
 
 [documentation]: https://terminusdb.com/docs/
