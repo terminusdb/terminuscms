@@ -11,7 +11,9 @@
 [discussions]: https://github.com/terminusdb/terminuscms/discussions
 [issues]: https://github.com/terminusdb/terminuscms/issues
 
-**TerminusCMS** is a headless content and knowledge management system. It is designed for environments with intensive data and documentation requiremnts. Start for free and upgrade when you need to. [Sign up takes less that a minute][dashboard]. With version control, collaboration, change requests, GraphQL, and many more features, TerminusCMS is ideal for developers looking for semantically enhanced content and knowledge management.
+**TerminusCMS** is a headless content and knowledge management system. It is designed for organizations that want to semantically connect data and content to improve the discovery and usage of organization-wide knowledge. Start for free and upgrade when you need to. [Sign up takes less than a minute][dashboard]. 
+
+With version control, collaboration, change requests, GraphQL, and many more features, TerminusCMS is ideal for developers looking for semantically enhanced content and knowledge management.
 
 TerminusCMS is built on the [open-source][terminusdb-repo] graph database and
 document store [**TerminusDB**][terminusdb].
